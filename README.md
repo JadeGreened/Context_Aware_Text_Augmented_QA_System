@@ -83,8 +83,6 @@ python MainSys.py
 ## Project Structure (example)
 
 ```
-.
-.
 ├── MainSys.py                    # Main entry point of the system
 │
 ├── Components/                   # Multimodal data modules
