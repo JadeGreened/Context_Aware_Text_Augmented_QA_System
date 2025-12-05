@@ -80,7 +80,7 @@ The **Context Awareness Text Augmented System** is an open-source project develo
 python MainSys.py
 ```
 
-## Project Structure (example)
+## Project Structure
 
 ```
 ├── MainSys.py                    # Main entry point of the system
